@@ -1,0 +1,6 @@
+{
+  "name": "Bangla AI Voice Generator",
+  "description": "Bangla AI Voice Generator by PlayVear - authentic Bangladeshi character voices and background music for content creators",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
